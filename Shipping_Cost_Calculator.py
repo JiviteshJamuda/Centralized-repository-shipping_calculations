@@ -1,5 +1,4 @@
-# Here is a new update by Jivitesh Jamuda
-# Here is another update by Jivitesh Jamuda
+ # Here is a new update by Jivitesh Jamuda
 
 # Shipping Cost Calculator
 
